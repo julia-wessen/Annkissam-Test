@@ -4,3 +4,6 @@ C:\Users\Eljia\Documents\School\Game Design\DSA 1\AnnkissamTest\AnnkissamTest\bi
 C:\Users\Eljia\Documents\School\Game Design\DSA 1\AnnkissamTest\AnnkissamTest\obj\Debug\AnnkissamTest.csprojResolveAssemblyReference.cache
 C:\Users\Eljia\Documents\School\Game Design\DSA 1\AnnkissamTest\AnnkissamTest\obj\Debug\AnnkissamTest.exe
 C:\Users\Eljia\Documents\School\Game Design\DSA 1\AnnkissamTest\AnnkissamTest\obj\Debug\AnnkissamTest.pdb
+C:\Users\Eljia\Documents\Eljia Stuff\Work and School\Annkissam-Test\AnnkissamTest\AnnkissamTest\bin\Debug\AnnkissamTest.exe.config
+C:\Users\Eljia\Documents\Eljia Stuff\Work and School\Annkissam-Test\AnnkissamTest\AnnkissamTest\obj\Debug\AnnkissamTest.exe
+C:\Users\Eljia\Documents\Eljia Stuff\Work and School\Annkissam-Test\AnnkissamTest\AnnkissamTest\obj\Debug\AnnkissamTest.pdb

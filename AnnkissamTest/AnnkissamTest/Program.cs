@@ -78,19 +78,19 @@ namespace AnnkissamTest
             {
                 if (wordlistcopy[i] != null)
                 {
-                    int occurance = 1; //increases the occurance to 1 if not null, indicating theres a new word
+                    int occurrence = 1; //increases the occurrence to 1 if not null, indicating theres a new word
                     for (int j = 0; j < wordlistcopy.Length; j++)
                     {
                         //if there is a duplicate and it is not the same string
                         if (wordlistcopy[i] == wordlistcopy[j] && i != j)
                         {
-                            occurance++; //found a duplicate word, so increasethe occurance
+                            occurrence++; //found a duplicate word, so increasethe occurrence
                             wordlistcopy[j] = null; //set that duplicate word to null since you already found it
                         }
 
                     }
-                    //adding the word and its number of occurances to the list to print out later
-                    printlist.Add("['" + wordlistcopy[i] + "', " + occurance + "],");
+                    //adding the word and its number of occurrences to the list to print out later
+                    printlist.Add("['" + wordlistcopy[i] + "', " + occurrence + "],");
                 }
 
             }
