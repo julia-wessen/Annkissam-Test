@@ -1,0 +1,6 @@
+C:\Users\Eljia\Documents\School\Game Design\DSA 1\AnnkissamTest\AnnkissamTest\bin\Debug\AnnkissamTest.exe.config
+C:\Users\Eljia\Documents\School\Game Design\DSA 1\AnnkissamTest\AnnkissamTest\bin\Debug\AnnkissamTest.exe
+C:\Users\Eljia\Documents\School\Game Design\DSA 1\AnnkissamTest\AnnkissamTest\bin\Debug\AnnkissamTest.pdb
+C:\Users\Eljia\Documents\School\Game Design\DSA 1\AnnkissamTest\AnnkissamTest\obj\Debug\AnnkissamTest.csprojResolveAssemblyReference.cache
+C:\Users\Eljia\Documents\School\Game Design\DSA 1\AnnkissamTest\AnnkissamTest\obj\Debug\AnnkissamTest.exe
+C:\Users\Eljia\Documents\School\Game Design\DSA 1\AnnkissamTest\AnnkissamTest\obj\Debug\AnnkissamTest.pdb
